@@ -1,4 +1,3 @@
-# House-price-prediction-using-satellite-images
 # House Price Prediction using Tabular + Satellite Images
 
 This project is an attempt to predict house prices by **combining structured property data with satellite images** of the surrounding area. The main idea is that house prices are influenced not only by numeric attributes (like size, location coordinates, etc.) but also by **visual context** — greenery, road density, urban layout, and neighborhood patterns visible from above.
