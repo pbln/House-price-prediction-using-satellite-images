@@ -23,7 +23,7 @@ The project started as a standard tabular ML pipeline and was later extended int
 .
 ├── data_fetch.py              # Fetch satellite images from lat/long
 ├── EDA_image.ipynb            # Visual EDA on satellite images
-├── Tabular(base_model).ipynb   # Tabular-only LightGBM baseline
+├── preprocessing.ipynb   # Tabular-only LightGBM baseline
 ├── Model_training.ipynb       # Multimodal training & prediction
 ├── images/
 │   ├── train/                 # Training satellite images
